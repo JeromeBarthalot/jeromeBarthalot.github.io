@@ -1,0 +1,80 @@
+*{
+	font-family: "Arial";
+}
+
+body{
+	background-color: rgba(224, 237, 237, 0.5);
+}
+
+h1{
+	font-family: "Comic Sans MS";
+	font-size: xx-large;
+	text-decoration: underline;
+	text-align: center;
+	background-color: lightblue;
+	text-shadow: 2px 2px 4px grey;
+}
+
+strong{
+	color: darkgrey;
+	font-style: oblique;
+	font-weight: normal;
+}
+
+h2{
+	font-size: x-large;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: left;
+}
+
+.flottant{
+	float: right;
+}
+
+.dessous{
+	clear: right;
+}
+
+p{
+	font-size: medium;
+	color : black;
+}
+
+ul{
+	color: blue;
+}
+
+ol{
+	color: red;
+}
+
+li{
+	background-color: silver;
+	opacity: 0.5;
+}
+
+em{
+	border: 1px black solid;
+}
+
+a:hover{
+	color: red;
+}
+
+footer{
+	background-color: rgb(100, 100, 100);
+	color: white;
+	font-style: italic;
+	font-weight: bold;
+	font-size: small;
+}
+
+h3{
+	text-decoration: underline;
+}
+
+div{
+	color: white;
+}
